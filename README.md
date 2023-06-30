@@ -1,2 +1,2 @@
 # news-web
-Subject Assignment
+Subject Assignment of Web Development
